@@ -30,5 +30,8 @@ Prediction of IMDB score using:
 ### [Project 5: Housing dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/Housing_explorations.ipynb)
 - Performing regression to predict prices of houses using different Machine Learning algortihms.
 
+Features with higher influence on housing prices. Biggest positive influence: Number of rooms - Biggest negative influence: COunting of nitric-oxide 
+![](/images/Housing.png)
+
 
 
