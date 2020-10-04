@@ -1,6 +1,4 @@
-# Portfolio of Agner Piton
-
-Here you can find some of my data science projects.
+# Here you can find some of my data science projects.
 
 ### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
 
@@ -13,12 +11,16 @@ Here you can find some of my data science projects.
 - Use of neural networks keras sequential model.
 
 ### [Project 3: Spatiotemporal Analysis](https://github.com/AgnerPiton/Portfolio/blob/master/Spatiotemporal_analysis.ipynb)
-- Explorations of a dataset of virus incidence. Autocorrelation, Krigging, incidence maps and time series data.
+- Explorations of a dataset of virus incidence.
+- Autocorrelation, Krigging, variogram, incidence maps and time series data.
 
+Incidence of Virus per location:
+![](/images/KNN-Autocorrelation.png)
 
 ### [Project 4: IMDB dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/IMDB_explorations.ipynb)
-- Exploration of the IMDB dataset, organizing and cleaning data and a simples 
+- Exploration of the IMDB dataset, organizing and cleaning data.
 - Pandas, NumPy, SkLearn.
+
 Prediction of IMDB score using:
 - Logistic Regression. - RMSE=1.029
 - Random Forest regressor. - RMSE=0.862
