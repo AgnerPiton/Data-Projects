@@ -2,7 +2,7 @@
 
 Here you can find some of my data science projects.
 
-### [Project 1:Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
+### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
 
 - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals. 
 - Use of 2 towers 2D convolutions.
@@ -17,7 +17,11 @@ Here you can find some of my data science projects.
 
 
 ### [Project 4: IMDB dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/IMDB_explorations.ipynb)
-- Exploration of the IMDB dataset, organizing and cleaning data and a simples Logistic Regression.
+- Exploration of the IMDB dataset, organizing and cleaning data and a simples 
+- Pandas, NumPy, SkLearn.
+Prediction of IMDB score using:
+- Logistic Regression. - RMSE=1.029
+- Random Forest regressor. - RMSE=0.862
 
 
 ### [Project 5: Housing dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/Housing_explorations.ipynb)
