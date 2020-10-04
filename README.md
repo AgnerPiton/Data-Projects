@@ -23,6 +23,7 @@ Prediction of IMDB score using:
 - Logistic Regression. - RMSE=1.029
 - Random Forest regressor. - RMSE=0.862
 
+i[](/images/Gross.png)
 
 ### [Project 5: Housing dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/Housing_explorations.ipynb)
 - Performing regression to predict prices of houses using different Machine Learning algortihms.
