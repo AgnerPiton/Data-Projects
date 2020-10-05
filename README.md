@@ -1,23 +1,30 @@
-# Samples of my data science projects.
+# My data science projects.
 
 ### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
 
+Overview: The task is to use Electroencephalography (EEG, brain waves) patterns to classify into sleep stages.
+
+- Raw EEG signals were transformed into Spectrograms. A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies
+with time. So a spectrogram is a 2D array, where one axis represents frequencies, and the other represents time.
 - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals. 
-- Use of 2 towers 2D convolutions.
+- Oversampling to balance the datasets.
+- Checkpoint to extract the best model.
+- Use of keras with 2 towers of 2D convolutions.
+- 85% accuracy of identyfing sleep stages on validation set. 68% accuracy on unseen test set.
 
 ### [Project 2: Speech recognition](https://github.com/AgnerPiton/Portfolio/blob/master/Speech_recognition.ipynb)
 
 Overview: Task is to learn to recognize which of several English words is pronounced in an audio recording. 
 
-- Wave files transformed to arrays using Mel-frequency cepstral coefficients - This can be done using libraries as: from python_speech_features import mfcc
+- Wave files transformed to arrays using Mel-frequency cepstral coefficients - Done using library python_speech_features. 
 - Numpy, pandas, Keras. 
 - Encoder for the words.
 - Use of neural networks keras sequential model. 
-- 90% accuracy of identyfing words on validation set.
+- 90% accuracy of identyfing words on validation set. 88% accuracy on unseen test set.
 
 ![](/images/Speech_rec_training.png)
 
-### [Project 3: Spatiotemporal Analysis](https://github.com/AgnerPiton/Portfolio/blob/master/Spatiotemporal_analysis.ipynb)
+### [Project 3: Spatiotemporal analysis](https://github.com/AgnerPiton/Portfolio/blob/master/Spatiotemporal_analysis.ipynb)
 - Explorations of a dataset of virus incidence
 - Pandas, Scypy, Pysal, geopandas.
 - Autocorrelation, Krigging, variogram, incidence maps and time series data.
