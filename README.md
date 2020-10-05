@@ -5,7 +5,7 @@
 - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals. 
 - Use of 2 towers 2D convolutions.
 
-### [Project 2: Speech recognition](https://github.com/AgnerPiton/Portfolio/blob/master/Speech_Recognition_Regression.py)
+### [Project 2: Speech recognition](https://github.com/AgnerPiton/Portfolio/blob/master/Speech_recognition.ipynb)
 
 Overview: Task is to learn to recognize which of several English words is pronounced in an audio recording. 
 
