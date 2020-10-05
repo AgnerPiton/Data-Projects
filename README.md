@@ -1,4 +1,4 @@
-# Here you can find some of my data science projects.
+# Samples of my data science projects.
 
 ### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
 
@@ -7,10 +7,15 @@
 
 ### [Project 2: Speech recognition](https://github.com/AgnerPiton/Portfolio/blob/master/Speech_Recognition_Regression.py)
 
-- Goal of correctly identifying sounds of words. 
+Overview: Task is to learn to recognize which of several English words is pronounced in an audio recording. 
+
+- Wave files transformed to arrays using Mel-frequency cepstral coefficients - This can be done using libraries as: from python_speech_features import mfcc
 - Numpy, pandas, Keras. 
-- Categorical to regression.
-- Use of neural networks keras sequential model.
+- Encoder for the words.
+- Use of neural networks keras sequential model. 
+- 90% accuracy of identyfing words on validation set.
+
+![](/images/Speech_rec_training.png)
 
 ### [Project 3: Spatiotemporal Analysis](https://github.com/AgnerPiton/Portfolio/blob/master/Spatiotemporal_analysis.ipynb)
 - Explorations of a dataset of virus incidence
@@ -18,6 +23,7 @@
 - Autocorrelation, Krigging, variogram, incidence maps and time series data.
 
 Incidence of Virus per location:
+
 ![](/images/KNN-Autocorrelation.png)
 
 ### [Project 4: IMDB dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/IMDB_explorations.ipynb)
@@ -39,7 +45,8 @@ Features with higher influence on housing prices.
 
 ![](/images/Housing.png)
 
-Biggest positive influence: Number of rooms --
+Biggest positive influence: Number of rooms 
+
 Biggest negative influence: Counting of nitric-oxide 
 
 
