@@ -1,7 +1,7 @@
 # My data science projects.
 Click on the project to access the respective notebook.
 
-### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
+### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_stage_recognition.ipynb)
 
 Overview: The task is to use Electroencephalography (EEG, brain waves) patterns to classify into sleep stages.
 
@@ -11,7 +11,9 @@ with time. So a spectrogram is a 2D array, where one axis represents frequencies
 - Oversampling to balance the datasets.
 - Checkpoint to extract the best model.
 - Use of keras with 2 towers of 2D convolutions.
-- 85% accuracy of identyfing sleep stages on validation set. 68% accuracy on unseen test set.
+- 83% accuracy of identyfing sleep stages on validation set. 68% accuracy on unseen test set.
+
+![](/images/Sleep_stage_training.png)
 
 ### [Project 2: Speech recognition](https://github.com/AgnerPiton/Portfolio/blob/master/Speech_recognition.ipynb)
 
