@@ -1,4 +1,5 @@
 # My data science projects.
+Click on the project to access the respective notebook.
 
 ### [Project 1: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_Stage_Classification.py)
 
