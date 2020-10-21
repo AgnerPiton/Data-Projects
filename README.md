@@ -1,7 +1,7 @@
-# My data science projects.
+# Artificial Intelligence projects.
 Click on the project to access the respective notebook.
 
-### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_stage_recognition.ipynb)
+### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
 
 Overview: Building a GAN from the scratch using the MNIST dataset.
 
@@ -10,6 +10,7 @@ Overview: Building a GAN from the scratch using the MNIST dataset.
 - Training
 - Visualization
 
+Generated image:
 ![](/images/MNISTgenerated.png)
 
 ### [Project 5: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_stage_recognition.ipynb)
