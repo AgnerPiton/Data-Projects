@@ -1,5 +1,5 @@
 # Artificial Intelligence projects.
-Click on the project to access the respective notebook.
+Click on the name of the project to access the respective notebook.
 
 ### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
 
