@@ -19,7 +19,7 @@ Overview: The task is to use Electroencephalography (EEG, brain waves) patterns 
 
 - Raw EEG signals were transformed into Spectrograms. A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies
 with time. So a spectrogram is a 2D array, where one axis represents frequencies, and the other represents time.
-- Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals. 
+- Goal of identifying in which of the 5 sleep stages the participant was, by using their brain wave signals. 
 - Oversampling to balance the datasets.
 - Checkpoint to extract the best model.
 - Use of keras with 2 towers of 2D convolutions.
