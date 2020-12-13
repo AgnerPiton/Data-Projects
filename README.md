@@ -61,9 +61,9 @@ Prediction of IMDB score using:
 ### [Project 1: Housing dataset explorations](https://github.com/AgnerPiton/Portfolio/blob/master/Housing_explorations.ipynb)
 - Preparing, visualizing and cleaning data.
 - Pandas, Matplot, SkLearn.
-- Performing Linear regression to predict median prices of houses.
+- Performing Linear regression to predict median prices of houses, repeat after normalizing the features.
 
-Features with higher influence on housing prices. 
+Features influence on housing prices. 
 
 ![](/images/Housing.png)
 
