@@ -67,8 +67,8 @@ Features with higher influence on housing prices.
 
 ![](/images/Housing.png)
 
-Biggest positive influence: Number of rooms 
+Highest positive factor: Number of rooms 
 
-Biggest negative influence: Counting of nitric-oxide 
+Highest negative factor: poor-people
 
 
