@@ -1,6 +1,17 @@
 # Artificial Intelligence projects.
 Click on the name of the project to access the respective notebook.
 
+### [Project 7: Web Scraping, data cleaning and visualization](https://github.com/AgnerPiton/Portfolio/blob/master/HDI_map.ipynb)
+
+Overview: Collecting data from several articles, cleaning, joining and plotting for further exploration.
+
+- Beautiful Soup
+- Cloropleth
+
+
+Generated image:
+![](/images/MNISTgenerated.png)
+
 ### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
 
 Overview: Building a GAN from the scratch using the MNIST dataset.
@@ -11,7 +22,7 @@ Overview: Building a GAN from the scratch using the MNIST dataset.
 - Visualization
 
 Generated image:
-![](/images/MNISTgenerated.png)
+![](/images/Globe_Suicide.html)
 
 ### [Project 5: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_stage_recognition.ipynb)
 
