@@ -12,7 +12,7 @@ Overview: Collecting data from several articles, cleaning, joining and plotting 
 [Interactive Globe](https://agnerpiton.github.io/Data-Projects/images/Globe_Suicide.html)
 ![](/images/Globe.png)
 
-![Right click - open in new tab Interactive map](images/Map_IDH.html)
+[Interactive map](https://agnerpiton.github.io/Data-Projects/images/Map_idh.html)
 ![](/images/Map_hdi.png)
 
 ### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
