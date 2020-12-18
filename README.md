@@ -22,7 +22,7 @@ Overview: Building a GAN from the scratch using the MNIST dataset.
 - Visualization
 
 Generated image:
-![](//images/MNISTgenerated.png)
+![](/images/MNISTgenerated.png)
 
 
 ### [Project 5: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_stage_recognition.ipynb)
