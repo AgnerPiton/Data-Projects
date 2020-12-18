@@ -10,8 +10,11 @@ Overview: Collecting data from several articles, cleaning, joining and plotting 
 
 
 Generated image:
-Format: ![Alt Text](images/Globe_Suicide.html)
-![](/images/Globe_Suicide.html)
+Format: ![Click to acces interactive map](images/Globe_Suicide.html)
+![](/images/Globe.png)
+
+Format: ![Click to acces interactive map](images/Map_IDH.html)
+![](/images/Map_hdi.png)
 
 ### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
 
