@@ -9,7 +9,7 @@ Overview: Collecting data from several articles, cleaning, joining and plotting 
 - Cloropleth
 
 
-![Right click - open in new tab Interactive Globe](images/Globe_Suicide.html)
+[Interactive Globe](https://agnerpiton.github.io/Data-Projects/images/Globe_Suicide.html)
 ![](/images/Globe.png)
 
 ![Right click - open in new tab Interactive map](images/Map_IDH.html)
