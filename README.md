@@ -10,7 +10,7 @@ Overview: Collecting data from several articles, cleaning, joining and plotting 
 
 
 Generated image:
-![](/images/MNISTgenerated.png)
+![](/images/Globe_Suicide.html)
 
 ### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
 
@@ -22,7 +22,8 @@ Overview: Building a GAN from the scratch using the MNIST dataset.
 - Visualization
 
 Generated image:
-![](/images/Globe_Suicide.html)
+![](//images/MNISTgenerated.png)
+
 
 ### [Project 5: Sleep stage classification](https://github.com/AgnerPiton/Portfolio/blob/master/Sleep_stage_recognition.ipynb)
 
