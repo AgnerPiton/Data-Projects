@@ -9,10 +9,10 @@ Overview: Collecting data from several articles, cleaning, joining and plotting 
 - Cloropleth
 
 
-![Interactive Globe - suicide mapping](images/Globe_Suicide.html)
+![Right click - open in new tab Interactive Globe](images/Globe_Suicide.html)
 ![](/images/Globe.png)
 
-![HDI interactive map](images/Map_IDH.html)
+![Right click - open in new tab Interactive map](images/Map_IDH.html)
 ![](/images/Map_hdi.png)
 
 ### [Project 6: Building a Generative Adversarial Network(GAN)](https://github.com/AgnerPiton/Portfolio/blob/master/Coursera_DCGAN.ipynb)
